@@ -96,7 +96,7 @@ section {
   text-align: center;
   padding: 15em 0;
   background-color: #222;
-  background-image: url(/images/1.png), radial-gradient(#999, #444);
+  background-image: url(/shoe-inc-landing-page/images/1.png), radial-gradient(#999, #444);
   background-blend-mode: multiply;
   background-attachment: fixed;
   background-position: center center;
@@ -104,7 +104,7 @@ section {
 
 @supports (background-blend-mode: multiply) {
   .land {
-    background-image: url(/images/1.png), radial-gradient(#999, #444);
+    background-image: url(/shoe-inc-landing-page/images/1.png), radial-gradient(#999, #444);
     background-blend-mode: multiply;
     background-attachment: fixed;
     background-position: center center;
